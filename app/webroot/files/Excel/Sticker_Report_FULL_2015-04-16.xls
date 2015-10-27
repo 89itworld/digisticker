@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>GOOLOGFILE</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>/home/digistickersapp/public_html/app/webroot/files/Excel/Sticker_Report_FULL_2015-04-16.xls</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><td class=xl24 width=64 style='font-weight:bold;'>S. No.</td><td class=xl24 width=64 style='font-weight:bold;'>Name</td><td class=xl24 width=64 style='font-weight:bold;'>Activation Status</td><td class=xl24 width=64 style='font-weight:bold;'>Deletion Status</td><td class=xl24 width=64 style='font-weight:bold;'>Type</td><td class=xl24 width=64 style='font-weight:bold;'>Category</td><td class=xl24 width=64 style='font-weight:bold;'>Times Used</td><td class=xl24 width=64 style='font-weight:bold;'>Created</td><td class=xl24 width=64 style='font-weight:bold;'>Modified</td><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >Abeg no vex</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Africa</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 3:33 AM</td><td class=xl24 width=64 >April 16, 2015, 12:25 AM</td><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >Are we an item paid</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Relationships</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 2:31 AM</td><td class=xl24 width=64 >April 15, 2015, 3:56 AM</td><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >Class was boring today</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 2:32 AM</td><td class=xl24 width=64 >April 15, 2015, 2:32 AM</td><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >Cute Couple</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Relationships</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 2:31 AM</td><td class=xl24 width=64 >April 15, 2015, 4:29 AM</td><tr><td class=xl24 width=64 >5</td><td class=xl24 width=64 >For crying out loud people read</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Social Media</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 4:22 AM</td><td class=xl24 width=64 >April 15, 2015, 4:22 AM</td><tr><td class=xl24 width=64 >6</td><td class=xl24 width=64 >Heavy hearts</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Motivational</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 3:57 AM</td><td class=xl24 width=64 >April 16, 2015, 12:29 AM</td><tr><td class=xl24 width=64 >7</td><td class=xl24 width=64 >I admire you</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Motivational</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 3:57 AM</td><td class=xl24 width=64 >April 16, 2015, 12:29 AM</td><tr><td class=xl24 width=64 >8</td><td class=xl24 width=64 >I got your back</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Motivational</td><td class=xl24 width=64 >7</td><td class=xl24 width=64 >April 15, 2015, 4:03 AM</td><td class=xl24 width=64 >April 16, 2015, 12:29 AM</td><tr><td class=xl24 width=64 >9</td><td class=xl24 width=64 >I love me some you</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Relationships</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 4:23 AM</td><td class=xl24 width=64 >April 15, 2015, 4:23 AM</td><tr><td class=xl24 width=64 >10</td><td class=xl24 width=64 >I love my school</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 2:32 AM</td><td class=xl24 width=64 >April 15, 2015, 2:56 AM</td><tr><td class=xl24 width=64 >11</td><td class=xl24 width=64 >I missed class</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 2:33 AM</td><td class=xl24 width=64 >April 15, 2015, 2:33 AM</td><tr><td class=xl24 width=64 >12</td><td class=xl24 width=64 >I needed to hear that</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Emotions</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 4:21 AM</td><td class=xl24 width=64 >April 15, 2015, 4:21 AM</td><tr><td class=xl24 width=64 >13</td><td class=xl24 width=64 >I passed the test</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 2:35 AM</td><td class=xl24 width=64 >April 15, 2015, 2:35 AM</td><tr><td class=xl24 width=64 >14</td><td class=xl24 width=64 >Let me take you out for a drink</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Relationships</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 4:23 AM</td><td class=xl24 width=64 >April 15, 2015, 4:23 AM</td><tr><td class=xl24 width=64 >15</td><td class=xl24 width=64 >LIke this</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Social Media</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 4:20 AM</td><td class=xl24 width=64 >April 15, 2015, 4:20 AM</td><tr><td class=xl24 width=64 >16</td><td class=xl24 width=64 >Live for the moment</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Motivational</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >April 15, 2015, 3:56 AM</td><td class=xl24 width=64 >April 16, 2015, 12:29 AM</td><tr><td class=xl24 width=64 >17</td><td class=xl24 width=64 >My sweet thang</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Relationships</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 4:24 AM</td><td class=xl24 width=64 >April 15, 2015, 4:24 AM</td><tr><td class=xl24 width=64 >18</td><td class=xl24 width=64 >Pulling an all nighter</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 2:32 AM</td><td class=xl24 width=64 >April 15, 2015, 2:32 AM</td><tr><td class=xl24 width=64 >19</td><td class=xl24 width=64 >test</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Africa</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 16, 2015, 12:11 AM</td><td class=xl24 width=64 >April 16, 2015, 12:24 AM</td><tr><td class=xl24 width=64 >20</td><td class=xl24 width=64 >That touched my heart</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Motivational</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 3:55 AM</td><td class=xl24 width=64 >April 16, 2015, 12:29 AM</td><tr><td class=xl24 width=64 >21</td><td class=xl24 width=64 >Wake up and take your butt to class</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 2:33 AM</td><td class=xl24 width=64 >April 15, 2015, 2:33 AM</td><tr><td class=xl24 width=64 >22</td><td class=xl24 width=64 >we agree to disagree</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Social Media</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 4:22 AM</td><td class=xl24 width=64 >April 16, 2015, 12:09 AM</td><tr><td class=xl24 width=64 >23</td><td class=xl24 width=64 >Working on a paper</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 3:10 AM</td><td class=xl24 width=64 >April 15, 2015, 3:10 AM</td><tr><td class=xl24 width=64 >24</td><td class=xl24 width=64 >You can do anything you put your mind to</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Motivational</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 15, 2015, 4:01 AM</td><td class=xl24 width=64 >April 16, 2015, 12:29 AM</td><tr>

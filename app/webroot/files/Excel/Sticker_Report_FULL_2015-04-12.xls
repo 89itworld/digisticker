@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>GOOLOGFILE</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>/home/digistickersapp/public_html/app/webroot/files/Excel/Sticker_Report_FULL_2015-04-12.xls</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><td class=xl24 width=64 style='font-weight:bold;'>S. No.</td><td class=xl24 width=64 style='font-weight:bold;'>Name</td><td class=xl24 width=64 style='font-weight:bold;'>Activation Status</td><td class=xl24 width=64 style='font-weight:bold;'>Deletion Status</td><td class=xl24 width=64 style='font-weight:bold;'>Type</td><td class=xl24 width=64 style='font-weight:bold;'>Category</td><td class=xl24 width=64 style='font-weight:bold;'>Times Used</td><td class=xl24 width=64 style='font-weight:bold;'>Created</td><td class=xl24 width=64 style='font-weight:bold;'>Modified</td><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 12, 2015, 1:26 AM</td><td class=xl24 width=64 >April 12, 2015, 1:26 AM</td><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >Class was boring today</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 9:22 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >Congrats on your new arrival</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:36 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >5</td><td class=xl24 width=64 >delete brb</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 10:05 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >6</td><td class=xl24 width=64 >delete brb try</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 11:04 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >7</td><td class=xl24 width=64 >delete brbtwo</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 10:50 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >8</td><td class=xl24 width=64 >delete capsule</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 12:47 PM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >9</td><td class=xl24 width=64 >delete congrats</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 8:36 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >10</td><td class=xl24 width=64 >delete good night</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 10:05 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >11</td><td class=xl24 width=64 >delete good night test</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 12:47 PM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >12</td><td class=xl24 width=64 >delete its a boy</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 8:31 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >13</td><td class=xl24 width=64 >delete lol</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 10:05 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >14</td><td class=xl24 width=64 >delete lol blk and gold</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 12:47 PM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >15</td><td class=xl24 width=64 >delete loltest</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 11:22 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >16</td><td class=xl24 width=64 >delete turn up</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 10:05 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >17</td><td class=xl24 width=64 >Getting on up there birthday</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >April 10, 2015, 8:46 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >18</td><td class=xl24 width=64 >Going to the library</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 9:24 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >19</td><td class=xl24 width=64 >Guess who is expecting pregnant</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:37 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >20</td><td class=xl24 width=64 >Happy Anniversary</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:38 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >21</td><td class=xl24 width=64 >Happy Anniversary Time Flies</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >April 10, 2015, 8:41 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >22</td><td class=xl24 width=64 >Happy birthday my good friend</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:45 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >23</td><td class=xl24 width=64 >Happy Birthday to you</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:42 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >24</td><td class=xl24 width=64 >I love my school</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 9:22 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >25</td><td class=xl24 width=64 >I married my best friend</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Relationships</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 7:22 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >26</td><td class=xl24 width=64 >I missed class</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 9:22 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >27</td><td class=xl24 width=64 >I passed the test</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >3</td><td class=xl24 width=64 >April 10, 2015, 9:23 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >28</td><td class=xl24 width=64 >I said yes engaged</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:42 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >29</td><td class=xl24 width=64 >Its a girl new baby</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:43 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >30</td><td class=xl24 width=64 >Its my birthday</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:45 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >31</td><td class=xl24 width=64 >Its our anniversary</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:37 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >32</td><td class=xl24 width=64 >Its your birthday gift</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:47 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >33</td><td class=xl24 width=64 >Off to class</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 9:24 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >34</td><td class=xl24 width=64 >Omg that test was the ish</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 9:23 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >35</td><td class=xl24 width=64 >Pulling an all nighter</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 9:24 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >36</td><td class=xl24 width=64 >Wake up and take your butt to class</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 9:22 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >37</td><td class=xl24 width=64 >What God has joined together congrats</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:41 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >38</td><td class=xl24 width=64 >Working on a paper</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >School</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 9:23 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >39</td><td class=xl24 width=64 >you are my queen</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Free</td><td class=xl24 width=64 >Relationships</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 11, 2015, 7:22 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr><td class=xl24 width=64 >40</td><td class=xl24 width=64 >You make us proud graduate graduation</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Deleted</td><td class=xl24 width=64 >Paid</td><td class=xl24 width=64 >Celebrations</td><td class=xl24 width=64 >None</td><td class=xl24 width=64 >April 10, 2015, 8:43 AM</td><td class=xl24 width=64 >April 12, 2015, 1:33 AM</td><tr>

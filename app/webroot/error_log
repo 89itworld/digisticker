@@ -1,0 +1,23 @@
+[07-Apr-2015 04:54:52 CST6CDT] PHP Parse error:  syntax error, unexpected '')." To:".date($to.'' (T_CONSTANT_ENCAPSED_STRING) in /home/digistickersapp/public_html/app/Controller/AppusersController.php on line 25
+[07-Apr-2015 23:08:50 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/digistickersapp/public_html/app/Controller/NotificationsController.php on line 11
+[07-Apr-2015 23:09:25 CST6CDT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 138458701 bytes) in /home/digistickersapp/public_html/lib/Cake/View/View.php on line 964
+[07-Apr-2015 23:09:54 CST6CDT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 138458701 bytes) in /home/digistickersapp/public_html/lib/Cake/View/View.php on line 964
+[09-Apr-2015 03:57:30 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/digistickersapp/public_html/app/Model/Email.php on line 6
+[09-Apr-2015 03:57:31 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/digistickersapp/public_html/app/Model/Email.php on line 6
+[09-Apr-2015 03:58:30 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/digistickersapp/public_html/app/Model/Email.php on line 6
+[09-Apr-2015 03:58:31 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/digistickersapp/public_html/app/Model/Email.php on line 6
+[09-Apr-2015 03:58:42 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/digistickersapp/public_html/app/Model/Email.php on line 6
+[09-Apr-2015 03:58:43 CST6CDT] PHP Fatal error:  Call to a member function find() on a non-object in /home/digistickersapp/public_html/app/Model/Email.php on line 6
+[09-Apr-2015 22:53:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'Clear' (T_STRING), expecting ')' in /home/digistickersapp/public_html/app/View/Stickers/index.ctp on line 80
+[10-Apr-2015 07:12:48 CST6CDT] PHP Fatal error:  Cannot redeclare CheckurlComponent::sendEmail() in /home/digistickersapp/public_html/app/Controller/Component/CheckurlComponent.php on line 44
+[10-Apr-2015 07:13:21 CST6CDT] PHP Fatal error:  Cannot redeclare CheckurlComponent::sendEmail() in /home/digistickersapp/public_html/app/Controller/Component/CheckurlComponent.php on line 44
+[15-Apr-2015 05:11:47 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/digistickersapp/public_html/app/Controller/NotificationsController.php on line 20
+[15-Apr-2015 07:05:02 CST6CDT] PHP Parse error:  syntax error, unexpected 'pr' (T_STRING), expecting ',' or ';' in /home/digistickersapp/public_html/app/Controller/StickersController.php on line 558
+[15-Apr-2015 07:25:26 CST6CDT] PHP Fatal error:  Call to a member function loadModel() on a non-object in /home/digistickersapp/public_html/app/Controller/WebservicesController.php on line 406
+[15-Apr-2015 07:26:05 CST6CDT] PHP Fatal error:  Call to a member function loadModel() on a non-object in /home/digistickersapp/public_html/app/Controller/WebservicesController.php on line 406
+[15-Apr-2015 07:26:19 CST6CDT] PHP Fatal error:  Call to a member function loadModel() on a non-object in /home/digistickersapp/public_html/app/Controller/WebservicesController.php on line 406
+[16-Apr-2015 00:41:36 CST6CDT] PHP Fatal error:  Class 'AppController' not found in /home/digistickersapp/public_html/app/Controller/WebservicesController.php on line 2
+[16-Apr-2015 00:42:56 CST6CDT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/digistickersapp/public_html/app/Controller/AppController.php on line 35
+[16-Apr-2015 00:43:14 CST6CDT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/digistickersapp/public_html/app/Controller/AppController.php on line 35
+[16-Apr-2015 00:43:14 CST6CDT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/digistickersapp/public_html/app/Controller/AppController.php on line 35
+[17-Apr-2015 07:18:49 CST6CDT] PHP Fatal error:  Call to a member function Find() on a non-object in /home/digistickersapp/public_html/app/Controller/WebservicesController.php on line 596

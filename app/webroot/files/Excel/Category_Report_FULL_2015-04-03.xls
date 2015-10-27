@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>GOOLOGFILE</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>/home/digistickersapp/public_html/app/webroot/files/Excel/Category_Report_FULL_2015-04-03.xls</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><td class=xl24 width=64 style='font-weight:bold;'>S. No.</td><td class=xl24 width=64 style='font-weight:bold;'>Name</td><td class=xl24 width=64 style='font-weight:bold;'>Activation Status</td><td class=xl24 width=64 style='font-weight:bold;'>Deletion Status</td><td class=xl24 width=64 style='font-weight:bold;'>Total Stickers</td><td class=xl24 width=64 style='font-weight:bold;'>Created</td><td class=xl24 width=64 style='font-weight:bold;'>Modified</td><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >AA TEST</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >43</td><td class=xl24 width=64 >March 26, 2015, 6:16 PM</td><td class=xl24 width=64 >March 31, 2015, 11:06 PM</td><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >Animal</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >17</td><td class=xl24 width=64 >March 4, 2015, 5:53 PM</td><td class=xl24 width=64 >April 1, 2015, 5:58 AM</td><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >digi stickers</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >March 16, 2015, 6:29 PM</td><td class=xl24 width=64 >March 16, 2015, 7:59 AM</td><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >emoticons</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >11</td><td class=xl24 width=64 >March 9, 2015, 3:41 PM</td><td class=xl24 width=64 >April 1, 2015, 2:04 AM</td><tr><td class=xl24 width=64 >5</td><td class=xl24 width=64 >flower</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >6</td><td class=xl24 width=64 >March 9, 2015, 2:36 PM</td><td class=xl24 width=64 >March 17, 2015, 6:54 AM</td><tr><td class=xl24 width=64 >6</td><td class=xl24 width=64 >objects</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >12</td><td class=xl24 width=64 >March 16, 2015, 5:35 PM</td><td class=xl24 width=64 >March 27, 2015, 5:37 AM</td><tr><td class=xl24 width=64 >7</td><td class=xl24 width=64 >symbols</td><td class=xl24 width=64 >Active</td><td class=xl24 width=64 >Not Deleted</td><td class=xl24 width=64 >28</td><td class=xl24 width=64 >March 16, 2015, 12:40 PM</td><td class=xl24 width=64 >March 16, 2015, 2:10 AM</td><tr>
